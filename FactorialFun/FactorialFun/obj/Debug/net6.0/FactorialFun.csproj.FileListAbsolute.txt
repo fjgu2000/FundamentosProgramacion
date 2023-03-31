@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\bin\Debug\net6.0\FactorialFun.exe
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\bin\Debug\net6.0\FactorialFun.deps.json
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\bin\Debug\net6.0\FactorialFun.runtimeconfig.json
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\bin\Debug\net6.0\FactorialFun.dll
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\bin\Debug\net6.0\FactorialFun.pdb
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\FactorialFun.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\FactorialFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\FactorialFun.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\FactorialFun.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\FactorialFun.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\FactorialFun.dll
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\refint\FactorialFun.dll
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\FactorialFun.pdb
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\FactorialFun.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Clases2023\Consola\FactorialFun\FactorialFun\obj\Debug\net6.0\ref\FactorialFun.dll
