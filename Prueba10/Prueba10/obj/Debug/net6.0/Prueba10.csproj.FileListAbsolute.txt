@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\Prueba10.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\Prueba10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\Prueba10.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\Prueba10.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\Prueba10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\bin\Debug\net6.0\Prueba10.exe
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\bin\Debug\net6.0\Prueba10.deps.json
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\bin\Debug\net6.0\Prueba10.runtimeconfig.json
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\bin\Debug\net6.0\Prueba10.dll
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\bin\Debug\net6.0\Prueba10.pdb
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\Prueba10.dll
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\refint\Prueba10.dll
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\Prueba10.pdb
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\Prueba10.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Clases2023\Consola\Prueba10\Prueba10\obj\Debug\net6.0\ref\Prueba10.dll
