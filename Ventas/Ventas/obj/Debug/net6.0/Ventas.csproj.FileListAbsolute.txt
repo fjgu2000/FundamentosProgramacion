@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\bin\Debug\net6.0\Ventas.exe
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\bin\Debug\net6.0\Ventas.deps.json
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\bin\Debug\net6.0\Ventas.runtimeconfig.json
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\bin\Debug\net6.0\Ventas.dll
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\bin\Debug\net6.0\Ventas.pdb
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\Ventas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\Ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\Ventas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\Ventas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\Ventas.dll
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\refint\Ventas.dll
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\Ventas.pdb
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\Ventas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Javier\Ventas\Ventas\obj\Debug\net6.0\ref\Ventas.dll
